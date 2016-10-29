@@ -17,6 +17,7 @@ This project contains a Vagrant controlled Sun Virtual Machine with a Puppet rec
 
 If you are reading this, you may be wonder why I built this project. Using a Message Queue is vital to creating an elastic and high availability systems. It allows the decoupling of components in a n-tier fashion. For example it allows cpu intensive components to be decoupled from the lower demanding cpu components. This allows infrastructure to provision more costly equipment to where it is needed.
 
+This is my seed project based off of many other projects I have seen on the web. I use this as a git submodule for many other projects.
 
 ### Install
 
